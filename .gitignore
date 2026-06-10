@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Julia
+Manifest.toml
+/deps/deps.jl
+docs/build/
+*.cov
+*.jl.mem
+
+# macOS
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
